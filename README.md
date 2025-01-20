@@ -46,10 +46,6 @@ gcc Prime.c -o main
 
   
   
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
 <h2>🛡️ License:</h2>
 
 This project is licensed under the GNU General Public License v3.0
