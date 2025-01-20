@@ -35,7 +35,7 @@ sudo apt-get install build-essentials gcc
 <p>5. Compile</p>
 
 ```
-gcc ProjetoProgramacao.c -o main
+gcc Prime.c -o main
 ```
 
 <p>6. Execute</p>
