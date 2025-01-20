@@ -17,7 +17,7 @@ wsl --install
 <p>2. Download this repository</p>
 
 ```
-git clone https://github.com/yourusername/Prime-Numbers-Generator.git
+git clone https://github.com/LucasFranciscoCorreia/Prime-Numbers-Generator.git
 ```
 
 <p>3. Go to the project directory</p>
